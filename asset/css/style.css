@@ -29,6 +29,7 @@ p,
 a,
 button,
 div {
+  text-align: center;
   font-family: "Raleway", sans-serif; }
 
 h1 {
@@ -79,7 +80,6 @@ a {
 .footer {
   width: 90%; }
   .footer p, .footer a {
-    text-align: center;
     color: #7A7B7D;
     font-size: 100%; }
 
