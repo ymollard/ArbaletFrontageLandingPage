@@ -2,7 +2,7 @@
  * @fileoverview This file contains all the graphical functions and event manager
  */
 
-let googleStore = "https://play.google.com/store/apps/details?id=com.arbalet.frontage";
+let googleStore = "market://details?id=com.arbalet.frontage";
 let appleStore = "https://itunes.apple.com/fr/app/arbalet-frontage/id1393183208";
 let selectedStore = googleStore;
 
